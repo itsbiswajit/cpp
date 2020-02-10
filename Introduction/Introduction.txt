@@ -1,28 +1,18 @@
 Introduction:
 1. C++ is a general-purpose language
 2. C++ is a middle-level programming language
-2. C++ Procedure oriented, Object-oriented and Generic-oriented programming language.
-3. C++ is a Cross-Platform programming language used to create High Performance Applications.
-4. Most Used in operating systems, Graphical User Interfaces, and embedded systems.
-
-
+3. C++ Procedure oriented, Object-oriented and Generic-oriented programming language.
+4. C++ is a Cross-Platform programming language used to create High Performance Applications.
+5. Most Used in operating systems, Graphical User Interfaces, and embedded systems.
 
 
 1. C++ is a general-purpose language:
-In computer software, a general-purpose programming language is a programming language designed to be used for writing software in the widest variety of application domains (a general-purpose language).
-A general-purpose programming language has this status because it does not include language constructs designed to be used within a specific application domain.
-
+In computer software, a general-purpose programming language is a programming language designed to be used for writing software in the widest variety of application domains (a general-purpose language).A general-purpose programming language has this status because it does not include language constructs designed to be used within a specific application domain.
 Conversely, a domain-specific programming language is one designed to be used within a specific application domain. Examples include page description languages and database query languages.
 
-
 2. C++ is a middle-level programming language:
-Medium-level language (MLL) is a computer programming language that interacts with the abstraction layer of a computer system.
-Medium-level language serves as the bridge between the raw hardware and programming layer of a computer system.
-
-Although C++ is used in many industries and can be used to write almost anything, it particularly excels in delivering performance and using system resources efficiently.
-The control C++ gives the user over system resources enables a skilled coder to write a program that is quicker and more powerful than a similar program written in another programming language.
-
-
+Medium-level language (MLL) is a computer programming language that interacts with the abstraction layer of a computer system.Medium-level language serves as the bridge between the raw hardware and programming layer of a computer system.
+Although C++ is used in many industries and can be used to write almost anything, it particularly excels in delivering performance and using system resources efficiently.The control C++ gives the user over system resources enables a skilled coder to write a program that is quicker and more powerful than a similar program written in another programming language.
 
 3. C++ Procedure oriented, Object-oriented and Generic-oriented programming language:
 Procedure oriented- 
