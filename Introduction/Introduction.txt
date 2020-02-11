@@ -15,7 +15,24 @@ Medium-level language (MLL) is a computer programming language that interacts wi
 Although C++ is used in many industries and can be used to write almost anything, it particularly excels in delivering performance and using system resources efficiently.The control C++ gives the user over system resources enables a skilled coder to write a program that is quicker and more powerful than a similar program written in another programming language.
 
 3. C++ Procedure oriented, Object-oriented and Generic-oriented programming language:
-Procedure oriented- 
+Procedure oriented- In the procedure oriented programming, program is divided into sub programs or modules and then assembled to form a complete program. These modules are called functions.
+Object-oriented - C++ supports the object-oriented programming, the four major pillar of object-oriented programming (OOPs) used in C++ are:
+Inheritance
+Data Hiding
+Polymorphism
+Encapsulation
+Abstraction
 
+4. C++ is a Cross-Platform programming language used to create High Performance Applications.
+Standard C++ is cross platform in the "write once, compile anywhere" sense, but not in the "compile once, run anywhere" sense.You can use it to build applications that will run on many different operating systems.That means that if you write a program in standard C++, you can compile and then run it on any target environment that has a standard conforming implementation of C++.
+
+5. Most Used in operating systems, Graphical User Interfaces, and embedded systems.
+operating systems - C++ forms an integral part of many of the prevalent operating systems including Apple’s OS X and various versions of Microsoft Windows, and the erstwhile Symbian mobile OS.
+Graphical User Interfaces - Many highly used applications, such as Image Ready, Adobe Premier, Photoshop and Illustrator, are scripted in C++.
+C++ overrides the complexities of 3D games, optimizes resource management and facilitates multiplayer with networking. The language is extremely fast, allows procedural programming for CPU intensive functions and provides greater control over hardware, because of which it has been widely used in development of gaming engines. For instance, the science fiction game Doom 3 is cited as an example of a game that used C++ well and the Unreal Engine, a suite of game development tools, is written in C++.
+High Performance Applications - C++ provides the means for building applications requiring real-time physical simulations, high-performance image processing, and mobile sensor applications. Maya 3D software, used for integrated 3D modeling, visual effects and animation, is coded in C++
+
+
+C++ is a powerful general purpose programming language that you can use to do just about anything with a computer
 C++ literally means ‘increment C by 1.
 cpp(C with classes)
